@@ -1,0 +1,12 @@
+body{
+	background-image: url(../img/EL-landingpage@1x.jpg);
+	background-size: 100%;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.25),
+	(min-resolution:120dpi){
+	body{
+		background-image: url(../img/EL-landingpage@2x.jpg);
+		background-size: 100%;
+		}
+}
